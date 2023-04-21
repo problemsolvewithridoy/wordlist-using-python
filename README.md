@@ -1,7 +1,10 @@
 
 # Wordlist using python
 
-In this project, you can generate unlimited passwords and save all passwords in a txt file.
+The "Wordlist using python" project is a Python script that generates a list of words that can be used for various purposes, such as password cracking, dictionary attacks, or brute-force attacks. The script is designed to generate a wordlist based on user-specified parameters, such as word length, character set, and prefix/suffix options. The generated wordlist can be saved in a text file for future use.
+
+The script is written in Python programming language and uses built-in Python libraries such as itertools and string. It is a beginner-friendly project that can be useful for anyone interested in learning Python programming and ethical hacking techniques. The project can also be extended to add more features, such as custom wordlists or advanced pattern matching algorithms. The code is available on Github and can be easily downloaded and customized to meet specific requirements.
+
 let's start...............
 
 To make this project you need to follow this step:-
